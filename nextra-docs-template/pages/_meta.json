@@ -1,0 +1,16 @@
+{
+  "Diet": {
+    "title": "Diet",
+    "type": "page"
+  },
+  "about": {
+    "title": "자료실",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://twitter.com/shuding_",
+    "newWindow": true
+  }
+}
